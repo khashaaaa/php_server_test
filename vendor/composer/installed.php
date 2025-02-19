@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'khashaa/php_server_test',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'e33251401b46887fb7a8947b9ae35a1e76e30c69',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'khashaa/php_server_test' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'e33251401b46887fb7a8947b9ae35a1e76e30c69',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
