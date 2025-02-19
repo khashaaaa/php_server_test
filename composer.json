@@ -1,0 +1,13 @@
+{
+    "name": "khashaa/php_server_test",
+    "description": "php workerman server test",
+    "authors": [
+        {
+            "name": "khashaaaa",
+            "email": "forwardent01@gmail.com"
+        }
+    ],
+    "require": {
+        "workerman/workerman": "^5.1"
+    }
+}
