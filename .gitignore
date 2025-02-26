@@ -1,3 +1,4 @@
 /vendor
 workerman.log
 composer.lock
+workerman.server.php.pid
